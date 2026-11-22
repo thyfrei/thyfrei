@@ -1,5 +1,5 @@
 <h1 align="center">I am Soumik</h1>
-<h3 align="center">A Freshman learning and working arround Frontier Models, RAGs, ML and Also interested in Web Development , computational physics</h3>
+<h3 align="center">A Freshman learning and working arround Frontier Models, RAGs, ML and Also interested in Web Development, computational physics</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thyfrei) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iitm-soumik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/InteractSoumik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:interact.soumik@gmail.com) 
